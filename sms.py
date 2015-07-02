@@ -1,4 +1,3 @@
-import com.gym.fitnesszone
 import urllib2
 import cookielib
 from getpass import getpass
@@ -7,12 +6,12 @@ import os
 from stat import *
 
 if __name__ == "__main__":    
-	username = "ur way2sms no"
-	passwd = "your password"
+	username = "9626398087"
+	passwd = "lihasnovember"
 
 	#message = "Fitness Zone Reminder: \n\n" + sys.argv[1] +" Your last month payment got over by " + sys.argv[3] +". Pay for the next month today. Thank you "
-	message = "your message"
-	number = "Where to send the message"
+	message = "your message alert bro"
+	number = "9626398087"
 
 	message = "+".join(message.split(' '))
 
