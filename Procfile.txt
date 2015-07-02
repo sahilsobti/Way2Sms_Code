@@ -1,0 +1,1 @@
+web: python way2sms.py
