@@ -1,1 +1,0 @@
-web: gunicorn way2sms.wsgi
